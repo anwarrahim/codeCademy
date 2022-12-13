@@ -1,4 +1,4 @@
-# new project
+# Give the star
 #
 # Receipts for Lovely Loveseats
 Receipts for Lovely Loveseats
