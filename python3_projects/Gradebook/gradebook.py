@@ -42,4 +42,3 @@ print(gradebook)
 full_gradebook = last_semester_gradebook + gradebook
 print(full_gradebook)
 
-#hello this is for test
