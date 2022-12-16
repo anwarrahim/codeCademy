@@ -5,28 +5,28 @@ Create Some Lists:
 1.
 Create a list called subjects and fill it with the classes you are taking:
 
-"physics"
-"calculus"
-"poetry"
-"history"
+* "physics"
+* "calculus"
+* "poetry"
+* "history"
 
 
 2.
 Create a list called grades and fill it with your scores:
 
-98
-97
-85
-88
+* 98
+* 97
+* 85
+* 88
 
-3.
+
 Manually (without any methods) create a two-dimensional list to combine subjects and grades. Use the table below as a reference to associated values.
 
 Name	Test Score
-"physics"	98
-"calculus"	97
-"poetry"	85
-"history"	88
+1. [ ] "physics"	98
+2. [ ] "calculus"	97
+3. [ ] "poetry"	    85
+4. [ ] "history"	88
 
 Assign the value into a variable called gradebook.
 
