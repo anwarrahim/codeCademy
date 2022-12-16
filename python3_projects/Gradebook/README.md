@@ -18,7 +18,7 @@ Create a list called grades and fill it with your scores:
 * 97
 * 85
 * 88
-
+* hello
 
 Manually (without any methods) create a two-dimensional list to combine subjects and grades. Use the table below as a reference to associated values.
 
