@@ -24,3 +24,24 @@ print(pizza_and_prices)
 # task 8
 pizza_and_prices = pizza_and_prices.sort()
 
+# Task 9
+cheapest_price = pizza_and_prices[0]
+print(cheapest_price)
+
+# Task 10
+priciest_pizza = pizza_and_prices[-1]
+print(priciest_pizza)
+
+# Task 11
+priciest_pizza.pop()
+print(priciest_pizza)
+
+# Task 12
+pizza_and_prices.insert(4, [2.5, "peppers"])
+print(pizza_and_prices)
+
+# Task 13
+three_cheapest = pizza_and_prices[:3]
+
+# Task 14
+print(three_cheapest)
