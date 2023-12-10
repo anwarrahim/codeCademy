@@ -1,3 +1,0 @@
-
-# javaScipt Code Challenges
-
