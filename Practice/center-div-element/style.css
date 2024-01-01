@@ -1,0 +1,42 @@
+*{
+  box-sizing: border-box;
+}
+
+p{
+  
+    background-color: #e7ff98;
+   
+    height: 200px;
+
+}
+
+div.heading {
+    width: 400px;
+    margin: 0 auto;
+}
+div.about {
+    width: 400px;
+    margin: 0 auto;
+}
+p {
+    max-height: 150px;
+    overflow: auto;
+    padding: 10px;
+  }
+  .borderbox{
+    width: 50%;
+    margin: 0 auto;
+    padding: 30px;
+    
+  }
+  /* p.borderbox{
+    padding: 30px;
+  } */
+
+  .borderbox p{
+   
+    border: 3px solid mediumturquoise;
+
+    padding: 40px;
+  }
+
